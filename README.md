@@ -11,7 +11,6 @@ The source code will be made publicly available after the approval by the compan
 
 #### Links
 - [Paper preprint](https://hal.telecom-paris.fr/hal-03219350)
-- [GitHub Code](https://github.com/giorgiacantisani/ugosa)
 - [Demo](https://adasp.telecom-paris.fr/resources/2021-06-01-ugosa-paper)
 
 Acknowledgment
