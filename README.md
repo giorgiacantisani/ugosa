@@ -5,7 +5,7 @@ This is the code repository for the paper
 *User-guided one-shot deep model adaptation for music source separation*
 by Giorgia Cantisani, Alexey Ozerov, Slim Essid, and Gaël Richard.
 
-Copyright 2020 InterDigital R&D and Télécom Paris.
+Copyright 2021 InterDigital R&D and Télécom Paris.
 
 The source code will be made publicly available after the approval by the company
 
