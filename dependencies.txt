@@ -1,0 +1,24 @@
+This code was developed in python using standard libraries for signal processing and machine learning. 
+Below you can find a list of the main libraries and code snippets I used with the corresponding licenses.
+
+## Libraries
+- pytorch: https://github.com/pytorch/pytorch (View license)
+- pytorch_lightning: https://github.com/PyTorchLightning/pytorch-lightning (Apache-2.0 License)
+- numpy: https://github.com/numpy/numpy (BSD-3-Clause License)
+- scipy: https://github.com/scipy/scipy (BSD-3-Clause License)
+- librosa: https://github.com/librosa/librosa (ISC License)
+- museval: https://github.com/sigsep/sigsep-mus-eval (MIT License)
+- musdb: https://github.com/sigsep/sigsep-mus-db (MIT License)
+- ranger: https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer (Apache-2.0 License)
+
+## Code snippets
+
+- utils.activations: contains a function that generate activation confidence annotations taken from MedleyDB code https://github.com/marl/medleydb (MIT License) and based on the paper MedleyDB: A Multitrack Dataset for Annotation-Intensive MIR Research" by R. Bittner, J. Salamon, M. Tierney, M. Mauch, C. Cannam and J. P. Bello.
+
+- utils.silent_frames_evaluation: contains a function that evaluate silence frames taken from https://github.com/schufo/wiass (MIT License) and based on the paper "Weakly Informed Audio Source Separation" by Kilian Schulze-Forster, Clement Doire, Gaël Richard, Roland Badeau.
+
+- demucs folder: contains code taken from https://github.com/facebookresearch/demucs (MIT License) and based on the paper "Music Source Separation in the Waveform Domain" by A. Defossez, N. Usunier, L. Bottou, and F. Bach.
+
+## Pretrained model
+
+The pretrained model used during the experiments (tasnet.th) was taken from https://github.com/facebookresearch/demucs (MIT License) 
