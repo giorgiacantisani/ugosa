@@ -15,5 +15,4 @@ The source code will be made publicly available after the approval by the compan
 
 Acknowledgement
 --------------
-This work has received funding from the European Union’s Horizon 2020 research and innovation
-programme under the Marie Skłodowska-Curie grant agreement No. 765068.
+This work was founded by the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement No. 765068 (MIP-frontiers) and by the European Union’s Horizon 2020 research and innovation program under the grant No. 951911 (AI4Media).
