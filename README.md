@@ -8,7 +8,7 @@ by Giorgia Cantisani, Alexey Ozerov, Slim Essid, and Gaël Richard.
 Copyright 2021 InterDigital R&D and Télécom Paris.
 
 #### Links
-- [Paper preprint](https://hal.telecom-paris.fr/hal-03219350)
+- [Paper](https://hal.telecom-paris.fr/hal-03219350)
 - [Demo](https://adasp.telecom-paris.fr/resources/2021-06-01-ugosa-paper)
 
 Acknowledgement
