@@ -92,7 +92,7 @@ parser.add_argument('--split', type=bool, default=True,
 parser.add_argument('--seed', type=int, default=42,
                     help='Seed') 
 
-parser.add_argument('--musdb_path', type=str, default='/tsi/doctorants/gcantisani/Datasets/MUSDB18_manual_activations/',
+parser.add_argument('--musdb_path', type=str, default='/tsi/doctorants/gcantisani/Datasets/MUSDB18_UGOSA/',
                     help='Path to the data')
 parser.add_argument('--sample_rate', type=int, default=44100,
                     help='Sample rate')
