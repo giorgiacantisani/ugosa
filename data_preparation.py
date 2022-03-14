@@ -18,6 +18,7 @@ from utils.utils_adaptation import *
 def main():
     source_names = ["drums", "bass", "other", "vocals"]
     random_order = True
+    np.random.seed(42)
     channels = [0, 1]
 
     path = '/tsi/doctorants/gcantisani/Datasets/MUSDB18/'
