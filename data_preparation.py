@@ -21,7 +21,7 @@ def main():
     channels = [0, 1]
 
     path = '/tsi/doctorants/gcantisani/Datasets/MUSDB18/'
-    new_path = '/tsi/doctorants/gcantisani/Datasets/MUSDB18_manual_activations/'
+    new_path = '/tsi/doctorants/gcantisani/Datasets/MUSDB18_UGOSA/'
     os.makedirs(new_path, exist_ok=True)
 
     # Iterate over all the tracks in the test set
